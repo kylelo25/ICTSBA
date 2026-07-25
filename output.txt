@@ -1,0 +1,92 @@
+| ID   | NAME           | SEED | SCHOOL                        
+------------------------------------------------------------------------
+| 1    | Kyle           | seed | Harvard University            
+| 2    | B              |      | Stanford University           
+| 3    | C              |      | MIT                           
+| 4    | D              | seed | Harvard University            
+| 5    | E              |      | Stanford University           
+| 6    | F              |      | MIT                           
+| 7    | G              | seed | Yale University               
+| 8    | H              |      | Princeton University          
+| 9    | I              |      | Columbia University           
+| 10   | J              | seed | Yale University               
+| 11   | K              |      | Princeton University          
+| 12   | L              |      | Columbia University           
+| 13   | M              | seed | Oxford University             
+| 14   | N              |      | Cambridge University          
+| 15   | O              |      | Cornell University            
+| 16   | P              | seed | Oxford University             
+| 17   | Q              |      | Cambridge University          
+| 18   | R              |      | Cornell University            
+| 19   | S              | seed | Duke University               
+| 20   | T              |      | Brown University              
+| 21   | U              |      | Dartmouth College             
+| 22   | V              | seed | Duke University               
+| 23   | W              |      | Brown University              
+| 24   | X              |      | Dartmouth College             
+| 25   | Y              | seed | Berkeley                      
+| 26   | Z              |      | Berkeley                      
+------------------------------------------------------------------------
+TOURNAMENT: 
+P (seed) vs Bye
+Match winner: P (seed)
+J (seed) vs Z
+Match winner: Z
+E vs N
+Match winner: N
+M (seed) vs Bye
+Match winner: M (seed)
+Y (seed) vs U
+Match winner: Y (seed)
+H vs R
+Match winner: H
+B vs I
+Match winner: B
+Kyle (seed) vs Bye
+Match winner: Kyle (seed)
+D (seed) vs Bye
+Match winner: D (seed)
+X vs W
+Match winner: X
+C vs F
+Match winner: F
+G (seed) vs Q
+Match winner: G (seed)
+V (seed) vs Bye
+Match winner: V (seed)
+O vs K
+Match winner: O
+L vs T
+Match winner: T
+S (seed) vs Bye
+Match winner: S (seed)
+P (seed) vs Z
+Match winner: Z
+N vs M (seed)
+Match winner: N
+Y (seed) vs H
+Match winner: Y (seed)
+B vs Kyle (seed)
+Match winner: Kyle (seed)
+D (seed) vs X
+Match winner: D (seed)
+F vs G (seed)
+Match winner: G (seed)
+V (seed) vs O
+Match winner: V (seed)
+T vs S (seed)
+Match winner: S (seed)
+Z vs N
+Match winner: Z
+Y (seed) vs Kyle (seed)
+Match winner: Y (seed)
+D (seed) vs G (seed)
+Match winner: D (seed)
+V (seed) vs S (seed)
+Match winner: S (seed)
+Z vs Y (seed)
+Match winner: Y (seed)
+D (seed) vs S (seed)
+Match winner: D (seed)
+Y (seed) vs D (seed)
+Match winner: Y (seed)

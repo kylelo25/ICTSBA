@@ -1,0 +1,28 @@
+| ID   | NAME           | SEED | SCHOOL                        
+------------------------------------------------------------------------
+| 1    | Ryan Chan      | seed | Stanford University           
+| 2    | Annie Wong     |      | Harvard University            
+| 3    | Kevin Leung    |      | Yale University               
+| 4    | Jason Li       | seed | Princeton University          
+| 5    | Vicky Cheung   |      | MIT                           
+| 6    | Terry Lam      |      | Stanford University           
+| 7    | Tiffany Tsang  | seed | Harvard University            
+| 8    | Oscar Ho       |      | Oxford University             
+| 9    | Cheryl Lau     |      | Columbia University           
+| 10   | Vincent Wong   |      | Princeton University          
+| 11   | Kathy Yip      | seed | UC Berkeley                   
+| 12   | Marcus Mak     |      | Cambridge University          
+| 13   | Sandy Ng       |      | University of Chicago         
+| 14   | Brian Choi     |      | Duke University               
+| 15   | Jenny Tam      |      | Oxford University             
+| 16   | Ricky Fung     |      | Yale University               
+| 17   | Winnie Chiu    |      | Caltech                       
+| 18   | Tommy Wan      |      | Cornell University            
+| 19   | Queenie Yuen   |      | Cambridge University          
+| 20   | Andy Pang      |      | UCLA                          
+| 21   | Candy Law      |      | Columbia University           
+| 22   | Eddie Hui      |      | MIT                           
+| 23   | Mandy Sit      |      | Johns Hopkins University      
+| 24   | Jacky Kwok     |      | University of Chicago         
+| 25   | Vivian Mok     |      | UC Berkeley                   
+------------------------------------------------------------------------

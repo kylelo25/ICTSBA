@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdexcept": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp",
+        "fstream": "cpp"
+    },
+    "code-runner.executorMap": {
+    "cpp": "cd $dir && g++ \"$fileName\" -o \"$fileNameWithoutExt.exe\" && \".\\$fileNameWithoutExt.exe\" && del \"$fileNameWithoutExt.exe\""
+    }
+}

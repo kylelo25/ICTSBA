@@ -1,0 +1,25 @@
+Ryan Chan,true,Stanford University
+Annie Wong,false,Harvard University
+Kevin Leung,false,Yale University
+Jason Li,true,Princeton University
+Vicky Cheung,false,MIT
+Terry Lam,false,Stanford University
+Tiffany Tsang,true,Harvard University
+Oscar Ho,false,Oxford University
+Cheryl Lau,false,Columbia University
+Vincent Wong,false,Princeton University
+Kathy Yip,true,UC Berkeley
+Marcus Mak,false,Cambridge University
+Sandy Ng,false,University of Chicago
+Brian Choi,false,Duke University
+Jenny Tam,false,Oxford University
+Ricky Fung,false,Yale University
+Winnie Chiu,false,Caltech
+Tommy Wan,false,Cornell University
+Queenie Yuen,false,Cambridge University
+Andy Pang,false,UCLA
+Candy Law,false,Columbia University
+Eddie Hui,false,MIT
+Mandy Sit,false,Johns Hopkins University
+Jacky Kwok,false,University of Chicago
+Vivian Mok,false,UC Berkeley
